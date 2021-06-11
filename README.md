@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/RallenDev" target="blank"><img src="https://img.shields.io/twitter/follow/RallenDev?logo=twitter&style=for-the-badge" alt="RallenDev" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structures**
+- 🔭 I’m currently working as **Design Lead** on an application for a non-profit.  
 
 - 🌱 I’m currently learning **NextJS, Typescript**
 
