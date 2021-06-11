@@ -22,11 +22,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/robertjallen](https://github.com/robertjallen)
-
 - 💬 Ask me about **React, Redux, NextJS, JS, Python**
-
-- 📫 How to reach me **bobbidigi34@gmail.com**
 
 - ⚡ Fun fact **I believe we can change the world for the better.**
 
