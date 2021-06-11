@@ -1,3 +1,10 @@
+[website]: https://robertjallen.dev/
+[gmail]: https://mail.google.com/mail/u/0/?fs=1&to=bobbidigi34@gmail.com&su=SUBJECT&body=BODY&tf=cm
+[twitter]: https://twitter.com/rallendev
+[linkedin]: https://www.linkedin.com/in/robertallendev/
+
+
+
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">I'm a frontend engineer, junior software developer, and life long learner from Michigan.</h3>
 
@@ -25,6 +32,8 @@
 
 - ⚡ Fun fact **I believe we can change the world for the better.**
 
+<!-- conect with me -->
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/RallenDev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="robertallen" height="30" width="40" /></a>
@@ -32,6 +41,16 @@
 <a href="https://www.hackerrank.com/robertjallen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="robertjallen" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bobbidigi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="bobbidigi" height="30" width="40" /></a>
 </p>
+
+### Connect with me:
+
+[<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\globe.svg" />][website]
+
+[<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail.svg" />][gmail]
+
+[<img align="left" style="margin-right: 1.5rem" alt="Twitter" width="36px" src="assets\013-twitter-1.svg" />][twitter]
+
+[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\031-linkedin.svg" />][linkedin]
 
 <!-- Skill Badges -->
 
