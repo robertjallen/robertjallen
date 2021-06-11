@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">I'm a frontend engineer, junior software developer, and life long learner from Michigan.
-  <a href="https://twitter.com/RallenDev" target="blank"><img src="https://img.shields.io/twitter/follow/RallenDev?logo=twitter&style=for-the-badge" alt="RallenDev" /></a>
+  <img src="https://komarev.com/ghpvc/?username=robertjallen&label=Profile%20views&color=0e75b6&style=flat" alt="robertjallen" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertjallen" alt="robertjallen" /></a>
 </h3>
 
