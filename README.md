@@ -52,6 +52,9 @@
 
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\031-linkedin.svg" />][linkedin]
 
+<a href="https://www.hackerrank.com/robertjallen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="robertjallen" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bobbidigi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="bobbidigi" height="30" width="40" /></a>
+
 <!-- Skill Badges -->
 
 ## Front End Skills:
