@@ -8,7 +8,6 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">I'm a frontend engineer, junior software developer, and life long learner from Michigan.
   <img src="https://komarev.com/ghpvc/?username=robertjallen&label=Profile%20views&color=0e75b6&style=flat" alt="robertjallen" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertjallen" alt="robertjallen" /></a>
 </h3>
 
 
@@ -78,5 +77,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertjallen&layout=compact" alt="robertjallen" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertjallen&show_icons=true&theme=radical" alt="robertjallen" /></p>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertjallen" alt="robertjallen" /></a>
 
-
+---
