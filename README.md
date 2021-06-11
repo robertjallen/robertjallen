@@ -34,15 +34,7 @@
 
 <!-- conect with me -->
 
-<p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/RallenDev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="robertallen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/robertallendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="robertallen" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/robertjallen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="robertjallen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bobbidigi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="bobbidigi" height="30" width="40" /></a>
-</p>
-
-### Connect with me:
 
 [<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\globe.svg" />][website]
 
