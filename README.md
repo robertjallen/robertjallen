@@ -11,7 +11,7 @@
 </h3>
 
 
-- 🔭 I’m currently working as **Design Lead** on an application for a non-profit.  
+- 🔭 I’m currently working as **Advisor II, Technical Support Specialist**  
 
 - 🌱 I’m currently learning **NextJS, Typescript**
 
